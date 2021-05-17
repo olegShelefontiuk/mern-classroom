@@ -1,0 +1,6 @@
+{
+
+  "port":  4000,
+  "jwtSecret": "YOUR_secret_key",
+  "mongoUri": "mongodb+srv://Oleg:gOKItSNAAQBAvuYz@cluster0.6w684.mongodb.net/Full-Stack-Book?retryWrites=true&w=majority"
+}
